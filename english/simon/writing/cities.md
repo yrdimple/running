@@ -40,6 +40,54 @@
 >
 > Do the benefits outweigh the drawbacks?
 >
+
 > In some countries, government are encourage industries and business to move to regional areas outside the big cities. Do the advantages of this trend outweigh the disadvantages?
->
-> 
+
+<blockquote>
+
+- begin
+
+改写题目来引出主题，然后给出自己的观点
+
+
+- body
+
+costs are lower in regional areas
+
+there is more space
+
+provide jobs to boost deprived areas
+
+avoid further overcrowing in the cities
+
+- body
+
+
+greater availability of skilled worker in big cities
+
+better transport and infrastructure
+
+companies based in regional areas are further from their clients, providers and other contacts.
+
+- end
+
+改写开头段观点
+
+</blockquote>
+
+
+## 范文
+<blockquote>
+
+More and more people are migrating to cities in search of a better life, but city life can bbe extremely difficult. Explain some of the difficulities of living in a city. How can governments make urban life better for everyone?
+</blockquote>
+
+
+<blockquote>
+
+Cities are often seen as places opportunity, but there are some major drawbacks of living in a large metropolis. In my opinion, governments could do much more to improve city life for the average inhabitant.
+
+
+The main problem for anyone who hopes to migrate to a large city is that the cost of living is likely to be much higher than it is a small town or village. Inhabitants of cities have to pay higher prices for housing, transport, and even food. Another issue is that urban areas tend to suffer from social problems such as high crime and proverty rates in comparsion with rural areas. Furthermore, the air quality in cities is often poor, due to pollution from traffic, and the streets and public transport systems are usually overcrowed. And a result, city life can be unhealty and streesful.
+
+</blockquote>
