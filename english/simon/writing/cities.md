@@ -125,4 +125,4 @@ provincial towns chengzhen
 | 现如今传统的农业活动不再需要更多的劳动力。人们从农村搬到城市。|
 | 城市生活成本要比农村高很多。房价更贵。|
 |市民缺乏社区感(人与人之间都很独立)。人们甚至不知道他们的邻居是谁。城市通常被描述为“水泥森林“|
-| 对汽车的过度依赖会导致健康问题比如肥胖。骑行或步行的人一般会更健康。|
+| 对汽车的过度依赖会导致健康问题比如肥胖。骑行或步行的人一般会更健康。| Dependence on cars is linked to health problems like obesity. People who walk or cycle regualrly are generally healthier.|
