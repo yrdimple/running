@@ -90,4 +90,17 @@ Cities are often seen as places opportunity, but there are some major drawbacks 
 
 The main problem for anyone who hopes to migrate to a large city is that the cost of living is likely to be much higher than it is a small town or village. Inhabitants of cities have to pay higher prices for housing, transport, and even food. Another issue is that urban areas tend to suffer from social problems such as high crime and proverty rates in comparsion with rural areas. Furthermore, the air quality in cities is often poor, due to pollution from traffic, and the streets and public transport systems are usually overcrowed. And a result, city life can be unhealty and streesful.
 
+However, there are various steps that governments could take to tackle these problems. Firstly, they could invest money in the building of affordable or social housing to reduce the cost of living. Secondly, politicians have the power to ban vehicles from city centers and pormote the use of cleaner public transport, which would help to reduce both air pollution and traffic congestion. In London, for example, the introduction of congestion charge for drivers has helped to crub the tirffic problem. A third option would be to develop provincial towns and rural areas, by moving industry and jobs to these regions, in order to reduce the pressure on major cities.
+
+In conclusion, governments could certainly implement a range of measures to enhance the quality of life for all city residents.
 </blockquote>
+
+<blockquote>
+
+provincial towns chengzhen
+
+</blockquote>
+
+| | |
+| -- | -- | 
+| 寻求就业机会 | find oppoasdf| 
