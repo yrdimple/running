@@ -107,22 +107,23 @@ provincial towns chengzhen
 | -- | -- | 
 | 寻求就业机会 | search of job opportunities| 
 | 生活成本更高 | a higher standard of living |
-| 农村 | 
-| 流浪者和穷人 | 
-| 贫富差距 | 
-| 缺乏社区感 | 
-| 水泥森林 | 
-| 人行道 | 
-| 自行车道 | 
-| 大都市 | 
-| 过度拥挤 | 
-| 廉租房 | 
-| 发射卫星城 | 
-| 城市居民 | 
-| (人们)搬到城市 | 
-| (城市)提供了更好的就业机会和生活条件 | 
-| 人们移居城市是为了寻求工作机会。城市提供了人们更好的就业机会和更好的生活条件。|
-| 现如今传统的农业活动不再需要更多的劳动力。人们从农村搬到城市。|
-| 城市生活成本要比农村高很多。房价更贵。|
-|市民缺乏社区感(人与人之间都很独立)。人们甚至不知道他们的邻居是谁。城市通常被描述为“水泥森林“|
+| 农村 | countryside / rural areas |
+| 流浪者和穷人 | homelessness and poverty | 
+| 贫富差距 | a gap between rich and poor | 
+| 缺乏社区感 | a sense of community |
+| 水泥森林 | concrete jungles |
+| 人行道 | pedestrian zone |
+| 自行车道 | bicycle lanes | 
+| 大都市 | a large metropoils | 
+| 过度拥挤 | overcrowded |
+| 廉租房 | social housing | 
+| 发展卫星城 | develop provincial towns | 
+| 城市居民 | city residents/inhabitants of cities |
+| (人们)搬到城市 | people migrate to cities | 
+| (城市)提供了更好的就业机会和生活条件 | cities can offer greater employment possibilities and higher standard of living. | 
+| 人们移居城市是为了寻求工作机会。城市提供了人们更好的就业机会和更好的生活条件。| People move to cities in search of job opportunties. Cities can offer greater employment possibilities and a higher standard of living. |
+| 现如今传统的农业活动不再需要更多的劳动力。人们从农村搬到城市。| Traditional activities like farming need fewer workers nowadays. People migrate to cities from the countryside. | 
+| 城市生活成本要比农村高很多。房价更贵。| The cost of living is higher than in rural areas. Housing is usually much more expensive.|
+| 城市里有交通堵塞和犯罪问题 | There are problems like triffic congestion and crime. | 
+|市民缺乏社区感(人与人之间都很独立)。人们甚至不知道他们的邻居是谁。城市通常被描述为“水泥森林“| Cities lack a sense of community. People di not even know their neighbor. Cities are sometimes descrebed as "concrete jungles".|
 | 对汽车的过度依赖会导致健康问题比如肥胖。骑行或步行的人一般会更健康。| Dependence on cars is linked to health problems like obesity. People who walk or cycle regualrly are generally healthier.|
